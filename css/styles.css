@@ -775,7 +775,7 @@ a.fa.fa-angle-down:focus {
     height: 175px;
     line-height: 175px;
     max-width: 100%;
-    background: #00009C;
+    background: #49A110 ;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -o-border-radius: 50%;
@@ -1468,7 +1468,7 @@ a.resume-btn:active {
     position: absolute;
     bottom: -100%;
     left: 0;
-    background-color: #00009C;
+    background-color: #49A110;
     color: #fff;
     height: 45px;
     width: 100%;
@@ -1924,8 +1924,8 @@ ul.social-buttons li a:active {
 
 .modal-body #visit-btn {
     padding: 10px;
-    color: #00009C;
-    border: 2px solid #00009C;
+    color: #377B0A;
+    border: 2px solid #377B0A;
     text-decoration: none;
     text-transform: uppercase;
     font-family: 'Lato', sans-serif;
@@ -1937,7 +1937,7 @@ ul.social-buttons li a:active {
 
 .modal-body #visit-btn:hover {
     color: #fff;
-    background-color: #00009C;
+    background-color: #49A110;
 }
 
 .modal-description {
